@@ -1,4 +1,5 @@
 # Fire & Smoke Detection
+![fire result](result/result1.jpg)
 
 **Fire & Smoke Detection** adalah aplikasi web sederhana berbasis **YOLOv26** untuk mendeteksi keberadaan **api dan asap** pada gambar maupun video.
 
