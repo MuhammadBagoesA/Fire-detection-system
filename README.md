@@ -3,7 +3,7 @@
 **Fire & Smoke Detection** adalah aplikasi web sederhana berbasis **YOLOv26** untuk mendeteksi keberadaan **api dan asap** pada gambar maupun video.
 
 **Demo Web:**  
-*soon*
+*(https://fire-detection-system-6esui64y5caoinxzeiwvht.streamlit.app/)*
 
 ---
 
